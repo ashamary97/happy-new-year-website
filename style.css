@@ -2,7 +2,8 @@
 
     background-image: url(../images/image3.jpg);
    
-    
+    background-repeat: no-repeat;
+    background-size: 600px 500px;
     
 }
 
