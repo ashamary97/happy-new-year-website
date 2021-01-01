@@ -3,8 +3,8 @@
     background-image: url(../images/image3.jpg);
    
     background-repeat: no-repeat;
-    background-size: 600px 500px;
-    
+    background-size: 600px 600px;
+    background-position: right;
 }
 
 .text{
@@ -12,7 +12,7 @@
     font-style: italic;
     font-size: 55px;
     font-family: URW Chancery L, cursive;
-    text-align: right ;
+    text-align: center ;
 }
 .heading{
         color: crimson;
