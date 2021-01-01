@@ -1,0 +1,22 @@
+.mybckimg{
+
+    background-image: url(../images/image2.jpg);
+   
+    
+    
+}
+
+.text{
+    color: crimson;
+    font-style: italic;
+    font-size: 55px;
+    font-family: URW Chancery L, cursive;
+    text-align: right ;
+}
+.heading{
+        color: crimson;
+        font-style: italic;
+        font-size: 55px;
+        font-family: URW Chancery L, cursive;
+        
+}
